@@ -4,8 +4,8 @@ spring:
       client:
         url: http://localhost:1111/
   datasource:
-    username: ashokit
-    password: AshokIT@123
+    username: root
+    password: root1234
     url: jdbc:mysql://localhost:3306/ecom
 
   jpa:
