@@ -4,6 +4,7 @@ spring:
       client:
         url: http://localhost:1111/
   datasource:
+    driver-class: com.mysql.cj.jdbc.Driver 
     username: root
     password: root1234
     url: jdbc:mysql://localhost:3306/ecom
